@@ -9,7 +9,7 @@ pragma solidity ^0.8.20;
  * Version: 1.0.0
  *
  * Creator / CEO: Ben Macedo
- * Contact Email: contact@bemycrypto1.com
+ * Contact Email: bmc1.ceo.macedo@bemycrypto1.online // line corrected inside github for reference but original deployed had mistake in it
  *
  * ============================================================
  *
